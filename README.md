@@ -1,4 +1,4 @@
-# netninja-vue
+# reaction timer-vue
 
 ## Project setup
 ```
